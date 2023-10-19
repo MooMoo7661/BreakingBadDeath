@@ -1,0 +1,6 @@
+displayName = Breaking Bad Death
+author = MooMoo
+version = 1.1
+hideCode = false
+hideResources = false
+includeSource = true

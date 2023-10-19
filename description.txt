@@ -1,0 +1,4 @@
+This mod plays "Baby Blue" when you die, slowly zooms out, and it locks your respawn timer to 3 minutes and 36 seconds (the exact length of the song).
+It's intended to be a pretty shitpost mod, but it may become a part of my future Breaking Bad content mod.
+
+Mod Icon border made by otterly
